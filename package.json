@@ -1,0 +1,19 @@
+{
+  "name": "@serverless-dns/count-min-sketch",
+  "version": "1.0.0",
+  "description": "https://github.com/mikolalysenko/count-min-sketch",
+  "main": "cmin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverless-dns/count-min-sketch.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/serverless-dns/count-min-sketch/issues"
+  },
+  "homepage": "https://github.com/serverless-dns/count-min-sketch#readme"
+}
