@@ -1,1 +1,1 @@
-# count-min-sketch
+This repository is forked implementation of [count-min-sketch]("https://github.com/mikolalysenko/count-min-sketch") with some minor changes like loading count-min-sketch from buffer.
